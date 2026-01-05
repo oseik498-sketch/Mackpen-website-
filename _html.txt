@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mackpen Web Design Agency</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Mackpen Web Design Agency</h1>
+  <p>UX Design • Digital & Marketing Communication</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#services">Services</a>
+  <a href="#careers">Careers</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>
+    Mackpen Web Design Agency is a Kumasi-based digital agency providing
+    professional User Experience (UX) design and Digital & Marketing
+    Communication services. We help businesses build user-friendly
+    digital platforms and effective online communication strategies.
+  </p>
+</section>
+
+<section id="services">
+  <h2>Our Services</h2>
+
+  <div class="box">
+    <h3>User Experience (UX) Design</h3>
+    <ul>
+      <li>User research and usability testing</li>
+      <li>Wireframing and prototyping</li>
+      <li>Website and application usability improvement</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h3>Digital & Marketing Communication</h3>
+    <ul>
+      <li>Digital marketing strategy</li>
+      <li>Social media and content management</li>
+      <li>Online branding and communications</li>
+    </ul>
+  </div>
+</section>
+
+<section id="careers">
+  <h2>Careers</h2>
+  <p>
+    Mackpen Web Design Agency works with professionals in UX Design and
+    Digital Marketing to deliver high-quality digital solutions.
+  </p>
+  <ul>
+    <li>Digital Marketing & Communications Officer</li>
+    <li>User Experience (UX) & Web Design Coordinator</li>
+  </ul>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p>Email: info@mackpen.com</p>
+  <p>Location: Kumasi, Ghana</p>
+</section>
+
+<footer>
+  <p>© 2023 Mackpen Web Design Agency. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
